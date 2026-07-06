@@ -898,9 +898,9 @@ truth for every project. Fill these three lines ONCE (they travel with
 every copy of the kit):
 
 ```
-KIT_REPO_URL   = https://github.com/runpradab/universal-agent-kit
-KIT_RAW_URL    = https://raw.githubusercontent.com/runpradab/universal-agent-kit/main/UNIVERSAL-KIT.md
-KIT_LOCAL_PATH = ~/repos/universal-agent-kit   (local clone; per machine)
+KIT_REPO_URL  = https://github.com/runpradab/universal-agent-kit
+KIT_RAW_URL   = https://raw.githubusercontent.com/runpradab/universal-agent-kit/main/UNIVERSAL-KIT.md
+KIT_LOCAL_PATH = ~/repos/universal-kit   (local clone; per machine)
 ```
 
 Two flows, forming a closed loop with Part 4.4:
