@@ -12,6 +12,11 @@ read and write the same git repo. Nothing important lives in a chat
 window. That's why it doesn't matter which device you're on — you
 resume anywhere with prompt P4 (see below).
 
+> **Already have a project with workflows/tasks in it?** Don't start
+> fresh — follow MERGE-INTO-EXISTING.md instead of steps 2–3 below.
+> It maps your existing (even scattered) files into this structure
+> without losing anything.
+
 ## Setup on your PC (one time, ~15 minutes)
 
 1. Install Claude Code: https://claude.com/claude-code
